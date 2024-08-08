@@ -2,7 +2,7 @@
 
 Meu nome é Carlos Junior
 
--Estou visitando a Alura
+-Estou estudando na Alura
 
 -Estou desenvolvendo na linguagem JavaScript
 
